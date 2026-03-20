@@ -21,31 +21,31 @@ To perfectly showcase the application, save the 7 screenshots you shared into th
 
 ### 1. Landing Page
 Showcases the platform's comprehensive anti-theft solutions and next-gen security features to new users.
-![Landing Page](/public/screenshot-1-landing.png)
+![Landing Page](public/screenshot-1-landing.png)
 
 ### 2. Login & Authentication
 Secure sign-in access for users to enter their credentials and access their stolen or lost device's security dashboard.
-![Login Page](/public/screenshot-2-login.png)
+![Login Page](public/screenshot-2-login.png)
 
 ### 3. Home / Security Profile & Emergency Protocols
 Manage your security profile, view current registered location, and set emergency contacts or protocols.
-![Security Profile](/public/screenshot-3-profile.png)
+![Security Profile](public/screenshot-3-profile.png)
 
 ### 4. Anti-Theft Tracking
 The core feature allowing you to find your device's exact location globally and execute immediate remote security protocols (Ring, Lock, Erase).
-![Anti-Theft Tracking Space](/public/screenshot-4-antitheft.png)
+![Anti-Theft Tracking Space](public/screenshot-4-antitheft.png)
 
 ### 5. Intruder Evidence Log
 A visual gallery of unauthorized access attempts automatically captured by the device and securely synced for download or local reporting.
-![Intruder Evidence Logs](/public/screenshot-5-intruder.png)
+![Intruder Evidence Logs](public/screenshot-5-intruder.png)
 
 ### 6. Security Overview / Dashboard
 A comprehensive view of active protections, real-time alerts, and system health status. Users can monitor their global network securely.
-![Security Overview](/public/screenshot-6-overview.png)
+![Security Overview](public/screenshot-6-overview.png)
 
 ### 7. Upgrade Plans
 Discover advanced premium features structured across different user tiers (Gold, Platinum, Diamond) depending on security needs.
-![Upgrade Plans](/public/screenshot-7-upgrade.png)
+![Upgrade Plans](public/screenshot-7-upgrade.png)
 
 ---
 
