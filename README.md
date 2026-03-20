@@ -1,5 +1,7 @@
 # SafeOn Web Application
 
+**Live Demo:** [https://saftyon.vercel.app/](https://saftyon.vercel.app/)
+
 ## Overview & Concept
 SafeOn is an advanced web-based security and device management dashboard that serves as the counterpart to the SafeOn mobile app. 
 
@@ -15,24 +17,27 @@ The primary goal of this application is to provide an accessible and powerful co
 
 ## Screenshots Tour
 
-### 1. Security Overview / Dashboard
-A comprehensive view of active protections, real-time alerts, and system health status. Users can trigger SOS, remote locks, or alarms directly from the quick access menu.
-![Dashboard](/public/hero-laptop.png)
+To perfectly showcase the application, save the 5 screenshots you shared into the `public` folder using the filenames listed below, and they will automatically appear here!
 
-### 2. Anti-Theft Tracking Space
+### 1. Home / Security Profile & Emergency Protocols
+Manage your security profile, view current registered location, and set emergency contacts or protocols.
+![Security Profile](/public/screenshot-1-profile.png)
+
+### 2. Anti-Theft Tracking
 The core feature allowing you to find your device's exact location globally and execute immediate remote security protocols (Ring, Lock, Erase).
-![Anti-Theft Tracking Space](/public/security-map.png)
+![Anti-Theft Tracking Space](/public/screenshot-2-antitheft.png)
 
 ### 3. Intruder Evidence Log
 A visual gallery of unauthorized access attempts automatically captured by the device and securely synced for download or local reporting.
-![Intruder Evidence 1](/public/intruder_1.png)
-![Intruder Evidence 2](/public/intruder_2.png)
+![Intruder Evidence Logs](/public/screenshot-3-intruder.png)
 
-### 4. Profiles & Emergency Contacts
-Manage your security profile, view current registered location, and set emergency contacts or protocols.
+### 4. Security Overview / Dashboard
+A comprehensive view of active protections, real-time alerts, and system health status. Users can monitor their global network securely.
+![Security Overview](/public/screenshot-4-overview.png)
 
 ### 5. Upgrade Plans
 Discover advanced premium features structured across different user tiers (Gold, Platinum, Diamond) depending on security needs.
+![Upgrade Plans](/public/screenshot-5-upgrade.png)
 
 ---
 
